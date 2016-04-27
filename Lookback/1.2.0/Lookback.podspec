@@ -31,7 +31,10 @@ DESCRIPTION
   s.homepage = "http://lookback.io/"
   s.license = {
     :type => "Commercial",
-    :file => "LICENSE.md"
+    :text => <<-LICENSE
+      All text and design is copyright © 2016 Lookback AB
+      All rights reserved. Terms of use as defined at http://lookback.io applies.
+    LICENSE
   }
   s.authors = {
     "Nevyn Bengtsson" => "nevyn@lookback.io",
