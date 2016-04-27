@@ -34,7 +34,7 @@ DESCRIPTION
     :file => "LICENSE.md"
   }
   s.authors = {
-    "Joachim Bengtsson" => "nevyn@lookback.io",
+    "Nevyn Bengtsson" => "nevyn@lookback.io",
     "Brian Gerstle" => "bgerstle@lookback.io",
     "Pete Nelson" => "pete@lookback.io"
   }
