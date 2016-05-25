@@ -44,9 +44,9 @@ DESCRIPTION
   s.platforms = {
     :ios => "8.0"
   }
-  s.documentation_url = "https://s3-eu-west-1.amazonaws.com/lookback-public/docs/ios/1.3.0.7.g5f35348/Lookback_h/index.html"
+  s.documentation_url = "https://s3-eu-west-1.amazonaws.com/lookback-public/docs/ios/1.3.0.14.g7a9ce9f/Lookback_h/index.html"
   s.source = {
-    :http => "https://s3-eu-west-1.amazonaws.com/lookback-public/sdk/lookback-sdk-1.3.0.7.g5f35348.zip"
+    :http => "https://s3-eu-west-1.amazonaws.com/lookback-public/sdk/lookback-sdk-1.3.0.14.g7a9ce9f.zip"
   }
   s.source_files = "lookback/HD/Lookback.framework/Versions/A/Headers/*.h"
   s.resources = "lookback/Lookback-Resources/Lookback.bundle"
