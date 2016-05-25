@@ -30,7 +30,7 @@ DESCRIPTION
   s.homepage = "http://lookback.io/"
   s.license = {
     :type => "Commercial",
-    :file => "LICENSE.md"
+    :file => "lookback/LICENSE.md"
   }
   s.authors = {
     "Nevyn Bengtsson" => "nevyn@lookback.io",
@@ -50,7 +50,7 @@ DESCRIPTION
   }
   s.source_files = "lookback/HD/Lookback.framework/Versions/A/Headers/*.h"
   s.resources = "lookback/Lookback-Resources/Lookback.bundle"
-  s.preserve_paths = "lookback/HD/Lookback.framework"
+  s.preserve_paths = ["lookback/LICENSE.md", "lookback/HD/Lookback.framework"]
   s.frameworks = [
     "Accelerate",
     "AVFoundation",
